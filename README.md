@@ -1,7 +1,1 @@
-# Quentin Sautière
-## Université de La Rochelle 🇫🇷
-French developer passionate about the web and much more.   
-
-Want to check my porfolio ? https://quentinsautiere.com
-
-[![LeetCode user Momopa](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMomopa&logo=leetcode&logoColor=yellow)](https://leetcode.com/Momopa/)
+![Metrics](https://metrics.lecoq.io/SautiereQDev?template=classic&languages=1&calendar=1&activity=1&traffic=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&calendar=false&calendar.limit=1&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&traffic=false&introduction=false&introduction.title=true&config.timezone=Europe%2FParis)
