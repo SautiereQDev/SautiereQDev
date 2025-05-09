@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="993" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1010" class="">
     <defs>
         <style/>
     </defs>
@@ -498,6 +498,37 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">SautiereQDev/L2-project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2e3510b</div>
+                                        <div class="message">refactor: Update record details composable for improved data handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fe68cc</div>
+                                        <div class="message">Refactor: Remove notification service and related components
+
+- Deleted notification.service.ts as it is no longer needed.
+- Cleaned up records.service.ts by removing fallback logic for mock data.
+- Removed unused jwt-helper.ts file.
+- Deleted RecordDetailView.vue and RecordsPaginatedView.vue as part of the refactor.
+- Updated RecordDetailsView.vue to improve structure and readability.
+- Removed RecordsSearchView.vue to streamline the search functionality.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">SautiereQDev/L2-project</span>
                                     </div>
@@ -566,32 +597,12 @@ This reverts commit edae64c0a6f7cc4309e12099246563b798f66f60.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">SautiereQDev/csp-lib</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">9-sudoku</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#859130d</div>
-                                        <div class="message">Merge branch 'develop' into 9-sudoku</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 May 2025, 09:20:49 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2025, 10:28:06 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
