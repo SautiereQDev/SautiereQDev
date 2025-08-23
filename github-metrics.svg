@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="977" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1403" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -216,7 +216,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    548 views in last two weeks
+                                    547 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -631,6 +631,377 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#47 🧪 Test Architecture Audit &amp; Optimization - Complete Clean Architecture Reorganization</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">SautiereQDev/BoursaVision</span></div>
+                                    <div>420 files changed <span class="code">++71344 --12952</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 54 commits in
+                                        <span class="repo">SautiereQDev/BoursaVision</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">46-test-architecture-audit-optimization---current-state-vs-target</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#77530cd</div>
+                                        <div class="message">test(integration): add authentication integration test structure
+
+- Add infrastructure integration test directories
+- Add application services integration test structure
+- Set up test organization for authentication workflows
+- Prepare integration test framework for JWT flows
+- Include service composition integration testing
+- Set up database and cache integration testing
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a70965b</div>
+                                        <div class="message">test(application): add authentication and application service tests
+
+- Add authentication service tests with JWT integration
+- Add market data cache service tests for auth context
+- Add risk assessment tests with user authentication
+- Include comprehensive error handling scenarios
+- Test service composition and dependency injection
+- Verify business logic validation and security
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecaa26b</div>
+                                        <div class="message">test(config): update test configuration for authentication
+
+- Update pytest configuration with authentication test markers
+- Add authentication-specific test fixtures and setup
+- Configure test database with authentication tables
+- Include authentication test environment configuration
+- Test authentication dependency injection setup
+- Verify authentication test isolation and cleanup
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6027c6b</div>
+                                        <div class="message">test(validation): add simple authentication validation tests
+
+- Add simple archive test for authentication data persistence
+- Add basic validation tests for authentication components
+- Include smoke tests for authentication system startup
+- Test authentication configuration and setup validation
+- Verify authentication system basic functionality
+- Test authentication component initialization and health
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#329122f</div>
+                                        <div class="message">test(factories): add authentication test factories initialization
+
+- Add test factories initialization module
+- Set up Factory Boy integration for authentication testing
+- Include base factory structure for user and token generation
+- Test factory pattern implementation for auth entities
+- Verify factory integration with test fixtures and scenarios
+- Test realistic data generation for authentication workflows
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#494e10c</div>
+                                        <div class="message">test(fixtures): add authentication test fixtures and utilities
+
+- Add CLI fixtures for authentication command testing
+- Add market data fixtures with authentication context
+- Add Celery fixtures for async authentication task testing
+- Include test data generation utilities for auth scenarios
+- Test fixture composition and dependency management
+- Verify fixture integration with authentication workflows
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c95998a</div>
+                                        <div class="message">test(e2e): add end-to-end user authentication scenarios
+
+- Add comprehensive E2E user authentication scenarios
+- Test complete user registration and login workflows
+- Include real browser-based authentication testing
+- Test user session management and security flows
+- Verify authentication persistence and token handling
+- Test cross-browser authentication compatibility
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c36741</div>
+                                        <div class="message">test(integration): add authentication integration tests
+
+- Add integration test configuration with authentication setup
+- Add main application integration tests with auth workflows
+- Test end-to-end authentication flow integration
+- Include database and API integration testing
+- Test authentication middleware and security integration
+- Verify complete authentication system integration
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e67769</div>
+                                        <div class="message">test(infrastructure): add web layer and API tests
+
+- Add FastAPI main application tests for authentication
+- Add market data cache router tests with auth context
+- Test FastAPI middleware integration with authentication
+- Include API endpoint testing and validation
+- Test HTTP request/response handling for auth endpoints
+- Verify web layer integration with application services
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a6d680</div>
+                                        <div class="message">test(infrastructure): add database layer and Unit of Work tests
+
+- Add comprehensive database layer tests for TimescaleDB
+- Add Unit of Work pattern tests for transaction management
+- Test database connection handling and session management
+- Include database performance and optimization testing
+- Test transaction isolation and consistency mechanisms
+- Verify UoW integration with authentication repositories
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e16c5d</div>
+                                        <div class="message">test(infrastructure): add repository infrastructure tests
+
+- Add comprehensive repository implementation tests
+- Add basic repository structure and interface tests
+- Include functional repository testing scenarios
+- Test repository pattern compliance with Clean Architecture
+- Verify repository database integration and transactions
+- Test repository error handling and performance
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8dd87fe</div>
+                                        <div class="message">test(infrastructure): add refresh token repository tests
+
+- Add RefreshTokenRepository implementation tests
+- Add integration tests for token persistence layer
+- Include enhanced repository test scenarios
+- Test repository CRUD operations and validation
+- Verify database integration with authentication tokens
+- Test repository error handling and edge cases
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38cc18d</div>
+                                        <div class="message">test(application): add DTOs and mappers tests
+
+- Add base DTO tests for authentication data transfer
+- Add InvestmentMapper tests for domain-application mapping
+- Test DTO validation and serialization logic
+- Include mapper transformation and type safety
+- Test DTO integration with authentication workflows
+- Verify mapper bidirectional conversion accuracy
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d622a70</div>
+                                        <div class="message">test(application): add CQRS handlers tests
+
+- Add Command handlers tests for authentication commands
+- Add Query handlers tests for authentication queries
+- Test CQRS pattern implementation with authentication
+- Include handler validation and business logic testing
+- Test command/query separation and responsibilities
+- Verify handler integration with application services
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#897899f</div>
+                                        <div class="message">test(application): add password service tests
+
+- Add PasswordService test coverage for authentication
+- Test password hashing and verification logic
+- Include security testing for password policies
+- Test password strength validation and requirements
+- Verify timing attack prevention mechanisms
+- Test integration with authentication workflows
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#905addf</div>
+                                        <div class="message">test(application): add JWT service tests
+
+- Add JWT service test coverage with comprehensive scenarios
+- Test JWT token generation and validation logic
+- Include simplified JWT service testing utilities
+- Test JWT security features and token expiration
+- Verify JWT service integration with authentication
+- Test error handling for invalid tokens and edge cases
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d975395</div>
+                                        <div class="message">test(application): add authentication service tests
+
+- Add comprehensive AuthenticationService test coverage
+- Test authentication workflows and user validation
+- Include complete authentication service test scenarios
+- Test service integration with domain layer
+- Verify authentication business logic implementation
+- Test error handling and security edge cases
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90bc5f9</div>
+                                        <div class="message">test(domain): add domain services tests for risk and portfolio management
+
+- Add RiskCalculator service tests with authentication context
+- Add PortfolioAllocationService comprehensive tests
+- Test domain service business logic validation
+- Include enhanced portfolio allocation test scenarios
+- Test service composition and dependency management
+- Verify domain service integration with authentication
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b97673</div>
+                                        <div class="message">test(domain): add value objects tests for authentication context
+
+- Add Money value object tests for financial validation
+- Add Price value object tests for investment data
+- Test value object immutability and equality semantics
+- Include boundary conditions and validation logic
+- Test performance characteristics of value objects
+- Verify value object integration with domain entities
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e65f3e8</div>
+                                        <div class="message">test(domain): add User entity authentication tests
+
+- Add focused User entity tests for authentication features
+- Include backup test scenarios for user validation
+- Test user creation with email and password validation
+- Verify domain entity constraints for authentication
+- Include edge cases for user authentication flows
+- Test user entity immutability and business rules
+
+Related to #46</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">SautiereQDev/BoursaVision</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">46-test-architecture-audit-optimization---current-state-vs-target</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#825f1f9</div>
+                                        <div class="message">Revert "feat(tests): add factory-boy and faker dependencies"
+
+This reverts commit 2df569282871751920c43afc0e537379c7cba6b4.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49b34b6</div>
+                                        <div class="message">feat(application): add authentication command use cases
+
+- Implement RegisterUserCommand with validation
+- Implement LoginUserCommand with credential verification
+- Implement LogoutUserCommand for session cleanup
+- Implement RefreshTokenCommand for token renewal
+- Add DTOs for request/response handling
+- Include comprehensive unit tests with dependency injection mocks
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03b1566</div>
+                                        <div class="message">feat(domain): add authentication repository interfaces
+
+- Define abstract UserRepository interface
+- Define abstract AuthTokenRepository interface
+- Include method signatures for CRUD operations
+- Add interface unit tests with mocks
+
+Related to #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08d4c8b</div>
+                                        <div class="message">feat(domain): add User and AuthToken entities with validation
+
+- Add User entity with email, password hash, and role attributes
+- Add AuthToken value object with token validation
+- Include comprehensive unit tests for both entities
+- Ensure immutability and business rule validation
+
+Closes #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c696e43</div>
+                                        <div class="message">feat(domain): add User and AuthToken entities with validation
+
+- Add User entity with email, password hash, and role attributes
+- Add AuthToken value object with token validation
+- Include comprehensive unit tests for both entities
+- Ensure immutability and business rule validation
+
+Closes #46</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2df5692</div>
+                                        <div class="message">feat(tests): add factory-boy and faker dependencies
+
+- Add factory-boy and faker to dev dependencies in pyproject.toml
+- Update poetry.lock with new dependencies
+- Prepare infrastructure for test data generation
+
+Refs: #46</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -660,75 +1031,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">copilot/vscode1755258314055</span>
-                                        in
-                                        <span class="repo">SautiereQDev/BoursaVision</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">SautiereQDev/BoursaVision</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">26-implement-jwt-authentication-system</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4dbd1e5</div>
-                                        <div class="message">Merge pull request #45 from SautiereQDev:copilot/vscode1755258314055
-
-[WIP] Implementation of Issue #26 in BoursaVision with Celery</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#faf33c0</div>
-                                        <div class="message">Initial plan</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c50591</div>
-                                        <div class="message">Checkpoint from VS Code for coding agent session</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#45 [WIP] Implementation of Issue #26 in BoursaVision with Celery</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Copilot in <span class="repo">SautiereQDev/BoursaVision</span></div>
-                                    <div>3 files changed <span class="code">++34 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2025, 07:19:18 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Aug 2025, 08:28:49 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
