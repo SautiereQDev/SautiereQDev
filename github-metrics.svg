@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1028" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1032" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    96.5 MB used
+                                    96.6 MB used
                                 </div>
                             </section>
                             <section>
@@ -651,25 +651,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">65-feat-post-security-validation-and-documentation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#76559ae</div>
-                                        <div class="message">feat: Add CI-specific MyPy script that avoids duplicate module issue
+                                        <div class="sha">#be2809e</div>
+                                        <div class="message">fix: Resolve critical MyPy type errors across multiple files
 
-✅ SUCCESS: MyPy duplicate module detection resolved!
+🔧 Type Safety Improvements:
+- Fix Dict value types in market_data.py (str|None → str)
+- Fix Dict entry type in protected_routes.py (str → list[str])
+- Add missing FastAPI import in auth_middleware.py
+- Fix undefined _request variable references → request
+- Correct Pydantic model attributes in auth_routes.py
+- Fix undefined __mock_investment_id → mock_investment_id
+- Add proper type casting in main.py (str(), int())
 
-The new mypy_ci.sh script:
-- Runs MyPy on individual modules to avoid dtos conflict
-- Provides detailed exit codes per module
-- Works perfectly for CI environments
-- No more 'Source file found twice' errors
+✅ Resolution Status:
+- No more 'Source file found twice' blocking errors
+- Resolved incompatible type arguments for uvicorn.run()
+- Fixed middleware request variable references
+- Corrected Pydantic model field names
+- Proper Dict type consistency across routers
 
-Test results:
-- ❌ Before: MyPy failed with duplicate module detection
-- ✅ After: MyPy runs successfully, detects real type errors
-- 🎯 Solution: Module-by-module checking approach
+🎯 Impact:
+- MyPy can now complete type checking without early termination
+- Real type errors are detected instead of path conflicts
+- CI pipeline can progress beyond type checking phase
+- Improved type safety across web layer components
 
-This solves the core issue described in the user's request:
-MyPy now works without the 'boursa_vision.application.dtos'
-duplicate module name conflict.</div>
+These fixes address the specific MyPy errors reported in CI failure logs.</div>
                                     </div>
                                 </div>
                             </section>
@@ -688,23 +695,25 @@ duplicate module name conflict.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">65-feat-post-security-validation-and-documentation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7c100f6</div>
-                                        <div class="message">fix: Clean MyPy configuration following best practices
+                                        <div class="sha">#42283d3</div>
+                                        <div class="message">fix: Update ci.yml workflow to use MyPy CI script
 
-- Remove complex exclude patterns and overrides
-- Use minimal clean configuration with mypy_path = src
-- Restructure dtos/__init__.py to simple import wrapper
-- Create models.py with actual DTO implementations
-- Update mypy_safe.sh with better documentation
+🔧 CI Workflow Fix:
+- Replace 'poetry run mypy src/' with './mypy_ci.sh' in ci.yml
+- Add CI environment variables (CI_ENVIRONMENT, YFINANCE_DISABLE_NETWORK, PYTEST_DISABLE_NETWORK)
+- Ensure consistent MyPy configuration across all workflows
 
-Following recommendations:
-- Single source path configuration
-- No duplicate module references
-- Clean namespace package setup
+✅ Resolution:
+- Fixes 'Source file found twice' error in ci.yml workflow
+- Both pr-strict.yml and ci.yml now use the corrected MyPy script
+- Consistent timeout and network handling across all CI pipelines
 
-Known limitation: MyPy still detects dtos module twice due to
-package/module dual nature. This is a MyPy architectural limitation
-with __init__.py files containing substantial code.</div>
+🎯 Impact:
+- No more MyPy duplicate module detection failures in any workflow
+- Unified CI experience across all branch and PR checks
+- Stable type checking that finds real errors instead of path conflicts
+
+This addresses the persistent 'boursa_vision.application.dtos' vs 'boursa_vision.application.dtos.__init__' error in GitHub Actions CI.</div>
                                     </div>
                                 </div>
                             </section>
@@ -723,20 +732,27 @@ with __init__.py files containing substantial code.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">65-feat-post-security-validation-and-documentation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e9c9ad8</div>
-                                        <div class="message">fix: Add comprehensive MyPy workaround for module conflict
+                                        <div class="sha">#7ce4af5</div>
+                                        <div class="message">fix: Resolve MyPy duplicate module detection in CI
 
-- Add mypy_path configuration to fix src. prefixed module names
-- Create comprehensive module overrides for both patterns:
-  * boursa_vision.application.dtos
-  * src.boursa_vision.application.dtos
-- Add exclude patterns for problematic __init__.py files
-- Create mypy_safe.sh script for selective type checking
-- Disable strict mode temporarily for CI compatibility
+🔧 MyPy Configuration Fix:
+- Update mypy_ci.sh to check modules individually
+- Avoid 'Source file found twice' error with dtos/__init__.py
+- Add exclude configuration in pyproject.toml for problematic __init__.py
+- Use module-by-module checking strategy
 
-Known issue: MyPy detects boursa_vision.application.dtos module twice
-due to package/module dual nature in __init__.py with code.
-Workaround: Use mypy_safe.sh or run on individual files.</div>
+✅ Resolution:
+- No more 'boursa_vision.application.dtos' vs 'boursa_vision.application.dtos.__init__' conflict
+- MyPy CI now finds actual type errors instead of being blocked by path issues
+- Maintains type checking coverage while avoiding MyPy limitation
+
+🎯 Impact:
+- CI pipeline can now complete MyPy checks successfully
+- Real type errors are properly detected and reported
+- Stable CI execution without duplicate module detection failures
+
+Fixes the exact issue described in:
+'The failure is caused by MyPy finding the same file twice under different module names'</div>
                                     </div>
                                 </div>
                             </section>
@@ -755,17 +771,14 @@ Workaround: Use mypy_safe.sh or run on individual files.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">65-feat-post-security-validation-and-documentation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5f006be</div>
-                                        <div class="message">fix: Improve MyPy configuration for CI compatibility
+                                        <div class="sha">#f28b2a9</div>
+                                        <div class="message">style: Apply Ruff formatting to CI timeout solution files
 
-- Add exclude pattern for problematic dtos module
-- Configure namespace_packages and explicit_package_bases
-- Add ignore overrides for external dependencies
-- Document known limitation with duplicate module detection
+- Format yfinance_client.py and conftest_network.py
+- Ensure 100% Ruff compliance for CI pipeline
+- Fix formatting issues introduced in previous commit
 
-Known issue: MyPy detects boursa_vision.application.dtos twice
-due to __init__.py structure. This is a MyPy limitation with
-package/module dual nature.</div>
+All checks now pass ✅</div>
                                     </div>
                                 </div>
                             </section>
@@ -784,13 +797,38 @@ package/module dual nature.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">65-feat-post-security-validation-and-documentation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0a8d144</div>
-                                        <div class="message">fix: Configure MyPy for CI compatibility
+                                        <div class="sha">#59c771a</div>
+                                        <div class="message">feat: Comprehensive CI Timeout Solutions &amp; MyPy Optimization
 
-- Add namespace_packages and explicit_package_bases for module resolution
-- Enable ignore_missing_imports for external dependencies
-- Disable strict type checking temporarily for CI stability
-- Reduce MyPy errors to focus on critical issues only</div>
+🚀 Network Timeout Prevention:
+- Increase YFinance request_timeout: 30s → 60s
+- Add CI_ENVIRONMENT detection for automatic network disabling
+- Implement mock data system for CI environment
+- Configure GitHub Actions with YFINANCE_DISABLE_NETWORK=1
+
+🏷️ MyPy CI Optimization:
+- Enhanced mypy_ci.sh script for module-by-module checking
+- Resolved 'Source file found twice' errors
+- Added timeout and network handling in workflow
+
+⚙️ Test Infrastructure:
+- Create pytest-ci.toml with network/slow markers
+- Add conftest_network.py with comprehensive network mocks
+- Implement @pytest.mark.network decorators for test exclusion
+
+📋 CI/CD Improvements:
+- Update pr-strict.yml with environment variables
+- Add CI_ENVIRONMENT, YFINANCE_DISABLE_NETWORK, PYTEST_DISABLE_NETWORK
+- Optimize workflow for 2-3x faster execution
+
+✅ Validation:
+- All timeout/CI tests passing (5/5)
+- Network calls properly disabled in CI
+- Mock data system validated
+- Comprehensive documentation added
+
+Fixes #XX - TimeoutError [Errno 110] Connection timed out in CI
+Related to network reliability improvements</div>
                                     </div>
                                 </div>
                             </section>
@@ -800,7 +838,7 @@ package/module dual nature.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2025, 15:24:28 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2025, 16:17:11 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
